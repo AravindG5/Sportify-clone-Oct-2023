@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    
+    width: 371.8px;
+    height: 982px;
+    top: 1px;
+    background-color:black;
+    color:white;
+}
+#nav1>p{
+    display: inline-block;
+}
